@@ -1,3 +1,5 @@
+##### ToDo: Write a comprehensive Readme with details
+
 # Static-Code-Analyser
 User can select any of them  
 list all functions  
